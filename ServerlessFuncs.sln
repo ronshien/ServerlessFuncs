@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessFuncs", "ServerlessFuncs.csproj", "{C19795C4-7CA3-4255-9BC1-1D3E1383EE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19795C4-7CA3-4255-9BC1-1D3E1383EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19795C4-7CA3-4255-9BC1-1D3E1383EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19795C4-7CA3-4255-9BC1-1D3E1383EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19795C4-7CA3-4255-9BC1-1D3E1383EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369F0CBC-681F-4E9C-9642-06152F199882}
+	EndGlobalSection
+EndGlobal
